@@ -2,4 +2,8 @@ File 1 in master branch
 
 change 1
 
+Change 2
+
+Change 3
+
 Ammend
